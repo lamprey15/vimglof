@@ -28,7 +28,9 @@ G -> W -> i -> " -> <kend> -> " -> <esc> ->  zz
   ![20211205_180105_2](https://user-images.githubusercontent.com/94046904/144741447-d24204dc-b0b2-4ae7-821e-8054abe3d80e.png)
 
  ***
- %s/y1/abs(y1)/g -> 
+ %s/y1/abs(y1)/g -> 3$s/1/2/g -> 4$s/1/3/g -> 5$s/1/4/g -> f(k) -> j -> r -> b -> <esc> -> j -> r -> r -> <esc>
+  
+ ->  j -> r -> g -> <esc> -> zz
   
    5번 문제
 ![20211205_180105_3](https://user-images.githubusercontent.com/94046904/144741438-3b279b7b-4908-4b59-ba48-3253597e17f6.png)
