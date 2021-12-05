@@ -23,14 +23,17 @@ G -> W -> i -> " -> <kend> -> " -> <esc> ->  zz
   3번 문제
   ![20211205_180105_1](https://user-images.githubusercontent.com/94046904/144741423-52dab1de-cb86-4ccd-883b-0c9cad806418.png)
  ***
-
+j-> j -> j -> o -> // Version TODO -> <esc> -> k ->  yy ->
+  
+  j -> j -> p -> b -> s -> Debug  -> <esc> -> zz
+  
   4번 문제
   ![20211205_180105_2](https://user-images.githubusercontent.com/94046904/144741447-d24204dc-b0b2-4ae7-821e-8054abe3d80e.png)
 
  ***
- %s/y1/abs(y1)/g -> 3$s/1/2/g -> 4$s/1/3/g -> 5$s/1/4/g -> f(k) -> j -> r -> b -> <esc> -> j -> r -> r -> <esc>
+ %s/y1/abs(y1)/g -> 3$s/1/2/g -> 4$s/1/3/g -> 5$s/1/4/g -> f(k) -> j -> R -> b -> <esc> -> j -> R -> r -> <esc>
   
- ->  j -> r -> g -> <esc> -> zz
+ ->  j -> R -> g -> <esc> -> zz
   
    5번 문제
 ![20211205_180105_3](https://user-images.githubusercontent.com/94046904/144741438-3b279b7b-4908-4b59-ba48-3253597e17f6.png)
