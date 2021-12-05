@@ -40,3 +40,6 @@ j-> j -> j -> o -> // Version TODO -> <esc> -> k ->  yy ->
   23번
   ***
 <enter> -> <enter> -> <enter> -> yw -> G -> W -> p -> i -> name,age,score -> zz
+
+ 교수님한테
+이렇게 제출해서 정말로 죄송합니다.
