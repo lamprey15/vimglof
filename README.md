@@ -12,17 +12,33 @@ $ apt update
 1번 문제 
 ***
 19번
+
 G -> W -> i -> " -> <kend> -> " -> <esc> ->  zz
 
 ![20211205_175311_1](https://user-images.githubusercontent.com/94046904/144740038-29db5fce-556c-4c65-9bd1-07ff5c2a4a45.png)
 
 2번 문제
 ***
-20  
+20번
+  
 %s/sublime\|emacs/vim/g -> zz
+  
+  ![20211205_180105_1](https://user-images.githubusercontent.com/94046904/144741423-52dab1de-cb86-4ccd-883b-0c9cad806418.png)
+3번 문제
+  ***
+
+  
+  ![20211205_180105_2](https://user-images.githubusercontent.com/94046904/144741447-d24204dc-b0b2-4ae7-821e-8054abe3d80e.png)
+4번 문제
+ ***
+  
+  
+  
+![20211205_180105_3](https://user-images.githubusercontent.com/94046904/144741438-3b279b7b-4908-4b59-ba48-3253597e17f6.png)
   
   
  5번 문제 
   ***
   23번
+  
 <enter> -> <enter> -> <enter> -> yw -> G -> W -> p -> i -> name,age,score -> zz
