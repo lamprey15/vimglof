@@ -22,7 +22,6 @@ G -> W -> i -> " -> <kend> -> " -> <esc> ->  zz
   
   3번 문제
   ![20211205_180105_1](https://user-images.githubusercontent.com/94046904/144741423-52dab1de-cb86-4ccd-883b-0c9cad806418.png)
-
  ***
 
   4번 문제
